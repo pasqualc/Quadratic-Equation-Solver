@@ -1,7 +1,6 @@
 # quadsolver-4900
 
 QuadSolver v. 1.01
-Liscensed to JKK Consulting Sept. 15, 2019
 
 To unpack Tar file, enter 'tar -xzvf qsolver.tar.gz'
 
@@ -33,3 +32,7 @@ To test: In testing directory, enter 'make test'
 
 - testing directory
   Directory with unit testing framework for program
+  
+  ___________________________________________________________________________________
+  
+  This software is designed to solve quadratic equations in the form of ax^2 + bx + c = 0. When running the program, enter a, b, and c and the program will return the value of x, or you will receive an error message depending on what was wrong with your input. 
